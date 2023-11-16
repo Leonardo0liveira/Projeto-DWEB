@@ -219,7 +219,7 @@ section{
     margin-top: 1rem;
     display: inline-block;
     background-color:#188a20;
-    color:#fff;
+    color:#188a20;
     border-radius: .5rem;
     padding:.9rem 3rem;
     cursor: pointer;
@@ -328,17 +328,17 @@ section{
 
 .container .posts-container .links a{
     font-size: 1.5rem;
-    color: #fff;
+    color: #777;
     justify-content: center;
 }
 
 .container .posts-container .links a i{
     padding-right: .2rem;
-    color:#fff;;
+    color:#777;;
 }
 
 .container .posts-container .links a:hover{
-    color: #fff;
+    color: #188a20;
 }
 
 .container .posts-container .links a:hover i{
